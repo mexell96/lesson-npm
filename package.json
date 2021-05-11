@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/mexell96/lesson-npm-hm#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.4"
